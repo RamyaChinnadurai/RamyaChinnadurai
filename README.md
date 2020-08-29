@@ -1,9 +1,3 @@
----
-title: "About me"
-template: "page"
-socialImage: "/media/cover.jpg"
----
-
 A passionate full-stack web developer with 3+ years of experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently working and building products that match my interest and passion.
 
 ![Ramya Chinnadurai, Full Stack web developer](https://rams.codes/media/cover.jpg)
