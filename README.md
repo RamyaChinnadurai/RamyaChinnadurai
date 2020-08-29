@@ -1,16 +1,20 @@
-### Hi there 👋
+---
+title: "About me"
+template: "page"
+socialImage: "/media/cover.jpg"
+---
 
-<!--
-**RamyaChinnadurai/RamyaChinnadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate full-stack web developer with 3+ years of experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently working and building products that match my interest and passion.
 
-Here are some ideas to get you started:
+![Ramya Chinnadurai, Full Stack web developer](https://rams.codes/media/cover.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I am a maverick, who thinks outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system.*
+
+My coding journey started from C, Java, PHP and now working on nextjs. Crossed working with languages, tools and platforms like react, node, MongoDB, AWS, firebase, and lot more.
+
+I’m a curious learner and you can see me with my laptop except for my sleeping hours. I have tried out with several things like stories, poets and drawings. If you wish to see my doodlings check out my [blog](https://ramyachinnadurai.in/). 
+
+I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX, product design, development with my learning and experience here and twitter.
+
+Follow me in twitter [@code_rams](https://twitter.com/code_rams) to get connected. 
+Trust me you wont feel bored :p
