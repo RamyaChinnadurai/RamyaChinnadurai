@@ -4,6 +4,8 @@ A passionate full-stack web developer with experience in building the product fr
 
 ![Ramya Chinnadurai, Full Stack web developer](https://rams.codes/media/cover.jpg)
 
+[![Status](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/ramyachinnadurai?tab=repositories)
+
 *I am a maverick, who thinks outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system.*
 
 My coding journey started from C, Java, PHP and now working on nextjs. Crossed working with languages, tools and platforms like react, node, MongoDB, AWS, firebase, and lot more.
