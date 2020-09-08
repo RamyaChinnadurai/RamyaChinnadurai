@@ -2,8 +2,6 @@
 
 A passionate full-stack web developer with experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently working and building products that match my interest and passion.
 
-![Ramya Chinnadurai, Full Stack web developer](https://rams.codes/media/cover.jpg)
-
 [![Status](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/ramyachinnadurai?tab=repositories)
 
 *I am a maverick, who thinks outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system.*
