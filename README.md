@@ -14,3 +14,5 @@ I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX,
 
 Follow me in twitter [@code_rams](https://twitter.com/code_rams) to get connected. 
 Trust me you wont feel bored :p
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyachinnadurai&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
