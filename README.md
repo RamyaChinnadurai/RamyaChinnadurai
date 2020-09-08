@@ -1,4 +1,6 @@
-A passionate full-stack web developer with 3+ years of experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently working and building products that match my interest and passion.
+[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+
+A passionate full-stack web developer with experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently working and building products that match my interest and passion.
 
 ![Ramya Chinnadurai, Full Stack web developer](https://rams.codes/media/cover.jpg)
 
