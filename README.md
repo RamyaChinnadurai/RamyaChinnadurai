@@ -8,7 +8,7 @@ A passionate full-stack web developer with experience in building the product fr
 
 My coding journey started from C, Java, PHP and now working on nextjs. Crossed working with languages, tools and platforms like react, node, MongoDB, AWS, firebase, and lot more.
 
-I’m a curious learner and you can see me with my laptop except for my sleeping hours. I have tried out with several things like stories, poets and drawings. If you wish to see my doodlings check out my [blog](https://ramyachinnadurai.in/). 
+I’m a curious learner and you can see me with my laptop except for my sleeping hours. I have tried out with several things like stories, poets and drawings. If you wish to see my doodlings check out my [blog](https://rams.codes). 
 
 [![Status](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)](https://github.com/ramyachinnadurai?tab=repositories)
 
