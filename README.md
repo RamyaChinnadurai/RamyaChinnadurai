@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rams! ![twitter-follower](https://img.shields.io/twitter/follow/code_rams?style=social)
-#### Co-founder of [100daysof.codes](http://100daysof.codes/) and Managing Gigahertz Innovations                                        
+## Co-founder of [100daysof.codes](http://100daysof.codes/) and Managing Gigahertz Innovations                                        
 
 
 ##### A passionate full-stack web developer with experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently creating and building products that kindle my interest and passion.
