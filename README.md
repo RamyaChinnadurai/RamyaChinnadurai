@@ -7,7 +7,7 @@
 
 #### *I am a maverick, who thinks outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system.*
 
-#### I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX, product design, development with my learning and experience here and twitter.
+##### I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX, product design, development with my learning and experience here and twitter.
 
 ---
 
