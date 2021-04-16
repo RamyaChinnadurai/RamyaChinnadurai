@@ -7,13 +7,16 @@
 
 #### *I am a maverick, who thinks outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system.*
 
-##### I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX, product design, development with my learning and experience here and twitter.
-
 ---
 
 ### GitHub Stats
 
-  [![Status](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)](https://github.com/ramyachinnadurai?tab=repositories)
+  [![Stats](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)](https://github.com/ramyachinnadurai?tab=repositories)
+
+![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramyachinnadurai&layout=compact&theme=radical)
+
+![Activity graph](https://activity-graph.herokuapp.com/graph?username=ramyachinnadurai&theme=dracula)
+
 
 ---
 
