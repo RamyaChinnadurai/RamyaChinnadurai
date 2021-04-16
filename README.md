@@ -2,7 +2,7 @@
 ## Building [100daysof.codes](http://100daysof.codes/)                                
 
 
-#### A passionate full-stack web developer and maverick, who thinks outside the box, take risks and have a relentless drive to reinvent and revolutionise the system.*
+#### A passionate full-stack web developer and maverick, who thinks outside the box, take risks and have a relentless drive to reinvent and revolutionise the system.
 
 ---
 
@@ -11,8 +11,6 @@
  ![](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&count_private=true&theme=merko)
 
 ![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramyachinnadurai&layout=compact&theme=radical)
-
-![Activity graph](https://activity-graph.herokuapp.com/graph?username=ramyachinnadurai&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyachinnadurai&" /></p>
 
