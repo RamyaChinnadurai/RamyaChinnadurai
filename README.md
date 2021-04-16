@@ -40,9 +40,15 @@
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
-  <a href="https://www.instagram.com/code_rams/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/instagram.jpg?raw=true">    </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ramyachinnadurai/"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/code_rams"><img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/code_rams" target="_blank">
+   <img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true">
+ </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/ramyachinnadurai/" target="_blank">
+   <img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true">
+ </a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/code_rams/" target="_blank">
+   <img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/instagram.jpg?raw=true">    
+ </a>
+ 
 </p>
 
