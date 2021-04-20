@@ -22,9 +22,6 @@
 - [My Collection of Round 1 - 100daysofcode challenge](https://github.com/RamyaChinnadurai/100DaysOfCode)
 - [Youtube downloader with PWA ( In Progress )](https://github.com/RamyaChinnadurai/youtube-download)
 - [Become Full Stack Web Developer](https://github.com/RamyaChinnadurai/Become-A-Full-Stack-Web-Developer)
-
-➡️  [more repos...](https://github.com/RamyaChinnadurai?tab=repositories)
-
 ---
 
 ### Latest Blog Posts
