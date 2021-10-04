@@ -22,15 +22,19 @@
 - [My Collection of Round 1 - 100daysofcode challenge](https://github.com/RamyaChinnadurai/100DaysOfCode)
 - [Youtube downloader with PWA ( In Progress )](https://github.com/RamyaChinnadurai/youtube-download)
 - [Become Full Stack Web Developer](https://github.com/RamyaChinnadurai/Become-A-Full-Stack-Web-Developer)
+
 ---
 
 ### Latest Blog Posts
 
 - [My #100daysofcode Journey Into Founding Start-up](https://ramyachinnadurai.in/my-100daysofcode-journey-into-founding-start-up)
+- [CSS Pseudo-elements and CSS Pseudo-classes Demystified](https://ramyachinnadurai.in/css-pseudo-elements-and-css-pseudo-classes-demystified)
+- [A guide to HTML5 semantic Elements](https://ramyachinnadurai.in/a-guide-to-html5-semantic-elements)
+- [5 Tips for CSS responsive design](https://ramyachinnadurai.in/5-tips-for-css-responsive-design)
 - [The Twitter dynamic name generator](https://ramyachinnadurai.in/the-twitter-dynamic-name-generator)
 - [How the delete operator can be your super saver!](https://ramyachinnadurai.in/how-the-delete-operator-can-be-your-super-saver)
 
-➡️  [more blog posts...](https://ramyachinnadurai.in)
+➡️ &nbsp; [more blog posts...](https://ramyachinnadurai.in)
 
 ---
 
