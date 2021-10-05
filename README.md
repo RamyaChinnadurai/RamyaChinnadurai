@@ -29,10 +29,7 @@
 
 - [My #100daysofcode Journey Into Founding Start-up](https://ramyachinnadurai.in/my-100daysofcode-journey-into-founding-start-up)
 - [CSS Pseudo-elements and CSS Pseudo-classes Demystified](https://ramyachinnadurai.in/css-pseudo-elements-and-css-pseudo-classes-demystified)
-- [A guide to HTML5 semantic Elements](https://ramyachinnadurai.in/a-guide-to-html5-semantic-elements)
-- [5 Tips for CSS responsive design](https://ramyachinnadurai.in/5-tips-for-css-responsive-design)
-- [The Twitter dynamic name generator](https://ramyachinnadurai.in/the-twitter-dynamic-name-generator)
-- [How the delete operator can be your super saver!](https://ramyachinnadurai.in/how-the-delete-operator-can-be-your-super-saver)
+- [Let's play with CSS keyframe animations](https://ramyachinnadurai.in/lets-play-with-css-keyframe-animations)
 
 ➡️ &nbsp; [more blog posts...](https://ramyachinnadurai.in)
 
