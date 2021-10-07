@@ -1,16 +1,23 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rams! ![twitter-follower](https://img.shields.io/twitter/follow/code_rams?style=social)
-## Building [100daysof.codes](http://100daysof.codes/)                                
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ramya Chinnadurai (Rams)! ![twitter-follower](https://img.shields.io/twitter/follow/code_rams?style=social)
+## Building [100daysof.codes](http://100daysof.codes/)      
 
-
-#### A passionate full-stack web developer and maverick, who thinks outside the box, take risks and have a relentless drive to reinvent and revolutionise the system.
+### A passionate full-stack web developer and maverick, who thinks outside the box, take risks and have a relentless drive to reinvent and revolutionise the system.
 
 ---
 
 ### GitHub Stats
 
- ![](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&count_private=true&theme=merko)
+ <a href="https://api.daily.dev/RamyaC" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/ff76a58d5d6244c68a6a8ad92e55898e.png?r=vud"
+      alt="Ramya Chinnadurai's Dev Card"
+    />
+  </a>
 
-![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramyachinnadurai&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&count_private=true&theme=merko)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyachinnadurai&" /></p>
 
