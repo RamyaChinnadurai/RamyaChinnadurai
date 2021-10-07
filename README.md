@@ -11,7 +11,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/ff76a58d5d6244c68a6a8ad92e55898e.png?r=vud"
+      src="https://github.com/RamyaChinnadurai/RamyaChinnadurai/blob/master/devcard.svg"
       alt="Ramya Chinnadurai's Dev Card"
     />
   </a>
