@@ -17,7 +17,7 @@
 
 - 📫 Reach me by email at **mailtoramyachinnadurai@gmail.com**
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [10+ Unknown but Useful HTML tags](https://ramyachinnadurai.in/10-unknown-but-useful-html-tags)
 - [The CSS ::before and ::after](https://ramyachinnadurai.in/the-css-before-and-after)
