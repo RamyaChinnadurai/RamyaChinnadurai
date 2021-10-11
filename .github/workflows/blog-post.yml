@@ -8,11 +8,11 @@ on:
     - cron: "0 0 * * *"
 jobs: 
     update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+        name: Update repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "ramyachinnadurai.in/rss.xml"
+                feed_list: "https://ramyachinnadurai.in/rss.xml"
