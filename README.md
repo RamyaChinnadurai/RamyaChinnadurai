@@ -43,6 +43,7 @@
 
 <p><a href="https://www.buymeacoffee.com/rams"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rams" /></a></p><br><br>
 
+---
 
 <a href="https://api.daily.dev/RamyaC" target="_blank">
     <img
@@ -53,6 +54,7 @@
     />
   </a>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&locale=en" alt="ramyachinnadurai" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ramyachinnadurai&show_icons=true&locale=en" alt="ramyachinnadurai" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyachinnadurai&" alt="ramyachinnadurai" /></p>
