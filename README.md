@@ -58,3 +58,11 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyachinnadurai&" alt="ramyachinnadurai" /></p>
+
+---
+
+#### My Spotify Last Played Song
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wraoqisnwvwvt6txqrbobiuj4y&cover_image=true&theme=novatorem&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wraoqisnwvwvt6txqrbobiuj4y&redirect=true)
+
+---
