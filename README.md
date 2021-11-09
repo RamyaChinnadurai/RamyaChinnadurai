@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [10+ Unknown but Useful HTML tags](https://ramyachinnadurai.in/10-unknown-but-useful-html-tags)
 - [The CSS ::before and ::after](https://ramyachinnadurai.in/the-css-before-and-after)
-- [Let's play with CSS keyframe animations](https://ramyachinnadurai.in/lets-play-with-css-keyframe-animations)
+- [Let&#39;s play with CSS keyframe animations](https://ramyachinnadurai.in/lets-play-with-css-keyframe-animations)
 - [The Twitter dynamic name generator](https://ramyachinnadurai.in/the-twitter-dynamic-name-generator)
 <!-- BLOG-POST-LIST:END -->
 
