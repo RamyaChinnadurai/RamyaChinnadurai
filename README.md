@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [100daysof.codes](https://100daysof.codes)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently building [dailyreact.dev](https://dailyreact.dev)
 
 - 📝 I regularly write articles on [ramyachinnadurai.in](ramyachinnadurai.in)
 
