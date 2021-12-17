@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/code_rams" target="blank"><img src="https://img.shields.io/twitter/follow/code_rams?logo=twitter&style=for-the-badge" alt="code_rams" /></a> </p>
 
-- 🔭 I’m currently working on [100daysof.codes](https://100daysof.codes)
+- 🔭 I’m currently working on [Gighertz Innovations (100daysof.codes)](https://100daysof.codes)
 
 - 🌱 I’m currently building [dailyreact.dev](https://dailyreact.dev)
 
