@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Gighertz Innovations (100daysof.codes)](https://100daysof.codes)
 
-- 🌱 I’m currently building [dailyreact.dev](https://dailyreact.dev)
+- 🌱 I’m currently building [tweetsmash.com](https://tweetsmash.com)
 
 - 📝 I regularly write articles on [ramyachinnadurai.in](ramyachinnadurai.in)
 
