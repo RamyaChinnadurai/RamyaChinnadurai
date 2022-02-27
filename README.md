@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [ramyachinnadurai.in](ramyachinnadurai.in)
 
-- 💬 Ask me about **full stack web development and startup**
+- 💬 Ask me about **full stack web development, productivity and startup**
 
 - 📫 Reach me by email at **mailtoramyachinnadurai@gmail.com**
 
