@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ramya Chinnadurai</h1>
+<h1 align="center">Hi, I'm Ramya Chinnadurai</h1>
 <h3 align="center"> A passionate full-stack web developer and maverick, who thinks outside the box, take risks and have a relentless drive to reinvent and revolutionise the system.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyachinnadurai&label=Profile%20views&color=0e75b6&style=flat" alt="ramyachinnadurai" /> </p>
