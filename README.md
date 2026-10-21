@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently building [tweetsmash.com](https://tweetsmash.com) and [linkedmash.com](https://linkedmash.com)
 
-- 📝 I regularly write articles on [ramyachinnadurai.in](ramyachinnadurai.in)
+- 📝 I regularly write articles on [ramyachinnadurai.com](ramyachinnadurai.com)
 
-- 💬 Ask me about **full stack web development, productivity and startup, indie hacking**
+- 💬 Ask me about **AI agents, productivity and startup, indie hacking**
 
 - 📫 Reach me by email at **hello@ramyachinnadurai.com**
 
