@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyachinnadurai&label=Profile%20views&color=0e75b6&style=flat" alt="ramyachinnadurai" /> </p>
 
-- 🔭 I’m currently working on Gighertz Innovations LLP
+- 🔭 I’m currently working on [heyula.ai](https://heyula.ai) 
 
 - 🌱 I’m currently building [tweetsmash.com](https://tweetsmash.com) and [linkedmash.com](https://linkedmash.com)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **full stack web development, productivity and startup, indie hacking**
 
-- 📫 Reach me by email at **mailtoramyachinnadurai@gmail.com**
+- 📫 Reach me by email at **hello@ramyachinnadurai.com**
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
