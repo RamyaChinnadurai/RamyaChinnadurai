@@ -23,13 +23,14 @@ I started as a full-stack web developer, and a 100 days of code challenge pulled
 - [Schedulemash](https://schedulemash.com): one calendar to schedule posts for X, LinkedIn, Instagram, Facebook, Threads and TikTok
 - [Mashpulse](https://mashpulse.com): privacy-friendly analytics for founders, with visitors, goals, funnels and Stripe revenue from one small script
 
-### Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [10+ Unknown but Useful HTML tags](https://ramyachinnadurai.in/10-unknown-but-useful-html-tags)
-- [The CSS ::before and ::after](https://ramyachinnadurai.in/the-css-before-and-after)
-- [Let&#39;s play with CSS keyframe animations](https://ramyachinnadurai.in/lets-play-with-css-keyframe-animations)
-- [The Twitter dynamic name generator](https://ramyachinnadurai.in/the-twitter-dynamic-name-generator)
-<!-- BLOG-POST-LIST:END -->
+### Latest posts
+- [How to connect LinkedIn to your second brain](https://x.com/code_rams/status/2076754553320665113) (Jul 2026)
+- [How to put Claude on autopilot without waking up to a mess](https://x.com/code_rams/status/2063960920695468265) (Jun 2026)
+- [Dynamic Workflows just changed what one person can build alone.](https://x.com/code_rams/status/2062262004753031320) (Jun 2026)
+- [How I use Obsidian and Claude Code and telegram as a second brain that reads itself](https://x.com/code_rams/status/2061108345591812568) (May 2026)
+- [How to set up Claude Code Remote Control](https://x.com/code_rams/status/2049234751991505287) (Apr 2026)
+
+More writing on [ramyachinnadurai.com](https://ramyachinnadurai.com/#writing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +42,6 @@ I started as a full-stack web developer, and a 100 days of code challenge pulled
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyachinnadurai&" alt="ramyachinnadurai" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=RamyaChinnadurai&theme=dark" alt="GitHub streak stats for RamyaChinnadurai" /></p>
 
 ---
